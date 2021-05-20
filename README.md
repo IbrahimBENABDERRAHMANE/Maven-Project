@@ -6,7 +6,7 @@ Désormais, vois être prêts à faire vos premiers pas et importer des biblioth
 Liens vidéos youtube :
 
 
-Installation JAVA + IDE Eclipse => https://www.youtube.com/watch?v=IqRl2Iaa3Xk&t=56s
+Installation JAVA + IDE Eclipse => https://www.youtube.com/watch?v=IqRl2Iaa3Xk&t
 
 
 Installation Maven => https://www.youtube.com/watch?v=k9g7nT7ohEI
